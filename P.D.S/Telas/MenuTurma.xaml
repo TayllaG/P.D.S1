@@ -1,0 +1,95 @@
+﻿<Window x:Class="P.D.S.Telas.MenuTurma"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P.D.S.Telas"
+        mc:Ignorable="d"
+        Title="MenuTurma" Height="450" Width="800">
+    <Grid>
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"  />
+            <ColumnDefinition Width="3*"  />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Column="0" Grid.Row="0">
+            <Label Content="SchoolDev" FontSize="30" Foreground="#2e3192" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="0">
+            <Label Content="Turma" FontSize="30" Foreground="#2e3192" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Grid.Row="1" Background="#2e3192">
+            <Button Content="Escola" FontSize="20" Background="#2e3192" Foreground="#f6ffff" Click="Button_Click">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5" />
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Content="Curso" FontSize="20" Background="#2e3192" Foreground="#f6ffff" Click="Button_Click_1">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5" />
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Content="Turma" FontSize="20" Background="#2e3192" Foreground="#f6ffff" Click="Button_Click_2">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5" />
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button Content="Aluno" FontSize="20" Background="#2e3192" Foreground="#f6ffff">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5" />
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+            <Button  Grid.Column="0" Content="sair" FontSize="20" Padding="6" Margin="0,20,0,0" Background="#2e3192" Foreground="#f6ffff" Click="Button_Click_3" >
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="10" />
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="1">
+
+            <DataGrid Height="100" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Codigo"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Nome"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Descrição"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Coordenador"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Ativo"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <Button  Grid.Column="0" Content="Nova Turma"  
+            FontSize="20" Padding="6" Margin="0,20,0,0" Background="#2e3192" Foreground="#f6ffff" HorizontalAlignment="Right" Click="Button_Click_4">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

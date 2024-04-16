@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\novaescola.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\novaescola.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\novaescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\novaescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\menuturma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\menuturma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\novaturma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\novaturma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\novocurso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\novocurso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\novocurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\novocurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\novaturma.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\novaturma.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\menucurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\menucurso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\menuescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\menuescola.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\menuescola.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\menuescola.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\menuturma.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\menuturma.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|c:\\users\\2022102020052\\documents\\p.d.s\\p.d.s\\telas\\menucurso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE12B697-494D-4FA0-94A4-714B211E9E3B}|P.D.S.csproj|solutionrelative:telas\\menucurso.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NovaEscola.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovaEscola.xaml",
+              "RelativeDocumentMoniker": "Telas\\NovaEscola.xaml",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovaEscola.xaml",
+              "RelativeToolTip": "Telas\\NovaEscola.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T14:21:43.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Telas\\NovoCurso.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovoCurso.xaml.cs",
+              "RelativeDocumentMoniker": "Telas\\NovoCurso.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovoCurso.xaml.cs",
+              "RelativeToolTip": "Telas\\NovoCurso.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:17:35.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Telas\\NovaEscola.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovaEscola.xaml.cs",
+              "RelativeDocumentMoniker": "Telas\\NovaEscola.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovaEscola.xaml.cs",
+              "RelativeToolTip": "Telas\\NovaEscola.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:17:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuTurma.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuTurma.xaml",
+              "RelativeDocumentMoniker": "Telas\\MenuTurma.xaml",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuTurma.xaml",
+              "RelativeToolTip": "Telas\\MenuTurma.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T14:23:27.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Telas\\NovaTurma.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovaTurma.xaml.cs",
+              "RelativeDocumentMoniker": "Telas\\NovaTurma.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovaTurma.xaml.cs",
+              "RelativeToolTip": "Telas\\NovaTurma.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwDoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:17:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NovoCurso.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovoCurso.xaml",
+              "RelativeDocumentMoniker": "Telas\\NovoCurso.xaml",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovoCurso.xaml",
+              "RelativeToolTip": "Telas\\NovoCurso.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T14:22:55.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T14:17:38.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:17:37.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NovaTurma.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovaTurma.xaml",
+              "RelativeDocumentMoniker": "Telas\\NovaTurma.xaml",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\NovaTurma.xaml",
+              "RelativeToolTip": "Telas\\NovaTurma.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T14:23:39.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Telas\\MenuTurma.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuTurma.xaml.cs",
+              "RelativeDocumentMoniker": "Telas\\MenuTurma.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuTurma.xaml.cs",
+              "RelativeToolTip": "Telas\\MenuTurma.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:17:21.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Telas\\MenuEscola.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuEscola.xaml.cs",
+              "RelativeDocumentMoniker": "Telas\\MenuEscola.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuEscola.xaml.cs",
+              "RelativeToolTip": "Telas\\MenuEscola.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:24:42.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuEscola.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuEscola.xaml",
+              "RelativeDocumentMoniker": "Telas\\MenuEscola.xaml",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuEscola.xaml",
+              "RelativeToolTip": "Telas\\MenuEscola.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T14:20:54.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuCurso.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuCurso.xaml",
+              "RelativeDocumentMoniker": "Telas\\MenuCurso.xaml",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuCurso.xaml",
+              "RelativeToolTip": "Telas\\MenuCurso.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T14:22:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Telas\\MenuCurso.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuCurso.xaml.cs",
+              "RelativeDocumentMoniker": "Telas\\MenuCurso.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020052\\Documents\\P.D.S\\P.D.S\\Telas\\MenuCurso.xaml.cs",
+              "RelativeToolTip": "Telas\\MenuCurso.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:33:35.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
